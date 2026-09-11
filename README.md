@@ -61,14 +61,10 @@ Final-year Electrical and Electronic Engineering undergraduate seeking an **embe
 ### 🤖 Embedded Systems & Robotics
 
 - **Custom ESP32 Robotics Development Board** (2026) — 4-layer Altium design for a plug-and-play robotics platform: DRV8833 motor driver, onboard MPU6050 IMU, three isolated power domains with dual reverse-protected input, and zero-button USB flashing.
-- **ThermalFlow — Thermal Occupancy Platform** (2023–2024, *patent filing in progress*) — Privacy-preserving occupancy sensing with an MLX90641 thermal array on ESP32 and on-device tracking algorithms. Quarter Finalist, IEEE Innovation Nation Sri Lanka 2026; exhibited at Techno 2024 (BMICH).
-- **OvaScan — Automated Microscope Slide-Scanning System** (2025, *patent filing in progress*) — Motorised XY stage with stepper motion control and a YOLOv8/OpenCV vision pipeline that counts parasite eggs to within 1–4 of manual technologist counts.
+- **ThermalFlow — Thermal Occupancy Platform** (2023–2024) — Privacy-preserving occupancy sensing with an MLX90641 thermal array on ESP32 and on-device tracking algorithms. Quarter Finalist, IEEE Innovation Nation Sri Lanka 2026; exhibited at Techno 2024 (BMICH).
+- **OvaScan — Automated Microscope Slide-Scanning System** (2025) — Motorised XY stage with stepper motion control and a YOLOv8/OpenCV vision pipeline that counts parasite eggs to within 1–4 of manual technologist counts.
 - **GeoSentinel — Smart Landslide Detection & Early Warning System** (2025) — Solar-powered embedded IoT node monitoring underground pressure, rainfall, soil moisture and GPS with UDP-based auto-connect telemetry. *(Collaborative project)*
 - **Project ASW — Active Suspension Wheelchair** (2024–2025) — Mechatronic retrofit suspension with tuned PID leveling across three IMUs and dual lead-screw actuators; demonstrated at Techno 2025.
-
-### 🧪 Research
-
-- **Wearable Biomedical System for Early Detection of the Dengue Critical Phase** (2025–present) — Final-year research fusing Capillary Refill Time, PPG heart rate, blood pressure and skin temperature into a graded early-warning alert. Includes a custom ESP32 PCB driving an automated CRT actuator, Raspberry Pi edge vision pipeline, and a Supabase/Python web platform for real-time clinician access.
 
 ### 🔬 Mini Projects
 
@@ -84,7 +80,6 @@ Final-year Electrical and Electronic Engineering undergraduate seeking an **embe
 
 ## 🏆 Key Achievements
 
-- ✅ Two patent filings in progress — ThermalFlow and OvaScan
 - ✅ Quarter Finalist, IEEE Innovation Nation Sri Lanka 2026
 - ✅ Three-time exhibitor, Techno Exhibition, BMICH (2023–2025)
 - ✅ Custom 4-layer PCB designer in Altium, from schematic to fabricated board
