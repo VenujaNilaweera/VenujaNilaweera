@@ -58,21 +58,85 @@ Final-year Electrical and Electronic Engineering undergraduate seeking an **embe
 
 ## 📌 Featured Projects
 
-### 🤖 Embedded Systems & Robotics
-
-- **Custom ESP32 Robotics Development Board** (2026) — 4-layer Altium design for a plug-and-play robotics platform: DRV8833 motor driver, onboard MPU6050 IMU, three isolated power domains with dual reverse-protected input, and zero-button USB flashing.
-- **GeoSentinel — Smart Landslide Detection & Early Warning System** (2025) — Solar-powered embedded IoT node monitoring underground pressure, rainfall, soil moisture and GPS with UDP-based auto-connect telemetry. *(Collaborative project)*
-- **Project ASW — Active Suspension Wheelchair** (2024–2025) — Mechatronic retrofit suspension with tuned PID leveling across three IMUs and dual lead-screw actuators; demonstrated at Techno 2025.
-
-### 🔬 Mini Projects
-
-- Wearable Band Contact-Quality PCB (2-layer, Altium)
-- Driver Drowsiness Detection — embedded CV on Raspberry Pi (MediaPipe + YOLO)
-- AUTOBOT-X — Autonomous Mobile Robot with PID navigation and a SolidWorks servo gripper
-- ESP32-C3 Touch-Sensing PCB
-- Auto Temperature-Controlled Soldering Iron — PID control (Techno 2023)
-- MailSense — open-source Python/Flask Gmail-to-Calendar/WhatsApp summariser
-- CuraVision AI — YOLO breast-ultrasound classifier with Grad-CAM *(collaborative)*
+<table>
+  <tr>
+    <td width="50%">
+      <b>🏔️ <a href="https://github.com/VenujaNilaweera/Geosentinal">GeoSentinel</a></b><br>
+      <strong>Smart Landslide Detection & Early Warning System</strong><br>
+      Solar-powered embedded IoT node monitoring underground pressure, rainfall, soil moisture, temperature, humidity and GPS in landslide-prone terrain, raising alerts before a slide.<br>
+      <br>
+      <strong>Tech Stack:</strong> C++, ESP32/Arduino, UDP telemetry<br>
+      <strong>Key Features:</strong> Auto-connect wireless telemetry, intelligent power management, unattended remote operation<br>
+      <br>
+      <a href="https://github.com/VenujaNilaweera/Geosentinal">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-%23121011?style=flat&logo=github"/>
+      </a>
+    </td>
+    <td width="50%">
+      <b>🩺 <a href="https://github.com/VenujaNilaweera/Curavison">CuraVision AI</a></b><br>
+      <strong>Breast Ultrasound Classifier</strong><br>
+      YOLO-based breast-ultrasound image classifier with Grad-CAM visual explanations for model predictions. <em>(Collaborative project)</em><br>
+      <br>
+      <strong>Tech Stack:</strong> Python, YOLO, OpenCV<br>
+      <strong>Key Features:</strong> Medical image classification, Grad-CAM interpretability<br>
+      <br>
+      <a href="https://github.com/VenujaNilaweera/Curavison">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-%23121011?style=flat&logo=github"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>📬 <a href="https://github.com/VenujaNilaweera/MailSense">MailSense</a></b><br>
+      <strong>Automated Email-to-Action System</strong><br>
+      Analyzes Gmail, extracts deadlines and actions, creates Google Calendar events, and sends real-time WhatsApp alerts.<br>
+      <br>
+      <strong>Tech Stack:</strong> Python, Flask, Gmail API, Google Calendar API<br>
+      <strong>Key Features:</strong> Email parsing, calendar automation, WhatsApp notifications<br>
+      <br>
+      <a href="https://github.com/VenujaNilaweera/MailSense">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-%23121011?style=flat&logo=github"/>
+      </a>
+    </td>
+    <td width="50%">
+      <b>🖼️ <a href="https://github.com/VenujaNilaweera/Venus-Image-Annotator">Venus Image Annotator</a></b><br>
+      <strong>Computer Vision Labeling Tool</strong><br>
+      Tool for drawing bounding boxes and saving annotations in YOLO format, built to speed up dataset labeling for CV projects.<br>
+      <br>
+      <strong>Tech Stack:</strong> Python<br>
+      <strong>Key Features:</strong> Bounding-box annotation, YOLO-format export<br>
+      <br>
+      <a href="https://github.com/VenujaNilaweera/Venus-Image-Annotator">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-%23121011?style=flat&logo=github"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🔌 <a href="https://github.com/VenujaNilaweera/APsync">APsync</a></b><br>
+      <strong>Auto-Reconnecting Serial Interface</strong><br>
+      Auto-reconnecting serial interface for Arduino and Python using username-based authentication and command handling.<br>
+      <br>
+      <strong>Tech Stack:</strong> Python, Arduino/C++<br>
+      <strong>Key Features:</strong> Auto-reconnect on disconnect, authenticated command handling<br>
+      <br>
+      <a href="https://github.com/VenujaNilaweera/APsync">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-%23121011?style=flat&logo=github"/>
+      </a>
+    </td>
+    <td width="50%">
+      <b>🌐 <a href="https://github.com/VenujaNilaweera/MyPortfolio">MyPortfolio</a></b><br>
+      <strong>Personal Portfolio Website</strong><br>
+      Personal portfolio site showcasing projects and experience.<br>
+      <br>
+      <strong>Tech Stack:</strong> HTML, CSS, JavaScript<br>
+      <br>
+      <a href="https://github.com/VenujaNilaweera/MyPortfolio">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-%23121011?style=flat&logo=github"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -88,11 +152,11 @@ Final-year Electrical and Electronic Engineering undergraduate seeking an **embe
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VenujaNilaweera&show_icons=true&theme=default&border_radius=10&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VenujaNilaweera&show_icons=true&theme=default"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenujaNilaweera&layout=compact&theme=default&border_radius=10&hide=html,css"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenujaNilaweera&layout=compact&theme=default&hide=html,css"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VenujaNilaweera&theme=default&border_radius=10&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VenujaNilaweera&theme=default"/>
 </p>
 
 ---
