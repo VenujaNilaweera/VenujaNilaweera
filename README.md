@@ -12,7 +12,6 @@
   <a href="https://github.com/VenujaNilaweera"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -30,7 +29,6 @@ Final-year Electrical and Electronic Engineering undergraduate seeking an **embe
 - IoT connectivity, wireless telemetry and cloud dashboards
 - SolidWorks mechanical design for hardware prototypes
 
----
 
 ## 🧰 Tech Stack
 
@@ -54,7 +52,6 @@ Final-year Electrical and Electronic Engineering undergraduate seeking an **embe
 **Web & Backend:** Supabase (DB, REST APIs, realtime), Python/Flask
 **Mechanical Design:** SolidWorks — assembly modelling, linkage design, design for 3D printing
 
----
 
 ## 📌 Featured Projects
 
@@ -138,7 +135,6 @@ Final-year Electrical and Electronic Engineering undergraduate seeking an **embe
   </tr>
 </table>
 
----
 
 ## 🏆 Key Achievements
 
@@ -147,7 +143,6 @@ Final-year Electrical and Electronic Engineering undergraduate seeking an **embe
 - ✅ Custom 4-layer PCB designer in Altium, from schematic to fabricated board
 - ✅ End-to-end embedded CV pipelines deployed on Raspberry Pi and ESP32
 
----
 
 ## 📊 GitHub Statistics
 
@@ -159,7 +154,6 @@ Final-year Electrical and Electronic Engineering undergraduate seeking an **embe
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VenujaNilaweera&theme=default"/>
 </p>
 
----
 
 ## 📫 Let's Connect!
 
