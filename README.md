@@ -147,10 +147,6 @@ Final-year Electrical and Electronic Engineering undergraduate seeking an **embe
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VenujaNilaweera&show_icons=true&theme=default"/>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VenujaNilaweera&layout=compact&theme=default&hide=html,css"/>
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VenujaNilaweera&theme=default"/>
 </p>
 
